@@ -1,0 +1,316 @@
+.bg{
+    background-image: url(ntbg.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+
+
+    height: 700px;
+    }
+    
+
+    .hin{
+        border: 1px solid rgb(86, 78, 78);
+    height: 15px;
+      background: none ;
+      border: 1px solid white;
+   
+      width: 90px;
+  }
+.imgt{
+    justify-content: flex-start;
+    padding-left: 20px;
+    
+}
+  .navbar{
+    display: flex;
+    height: 100px;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 90px;
+    padding-right: 130px;
+   
+
+  }
+
+  .sn{
+    color: white;
+    background-color: rgb(193, 17, 25);
+    width: 80px;
+    height:35px;
+    font-size: 15px;
+    border-radius: 7px;
+    margin-left: 10px;
+    box-shadow: 2px 1px 1px 0px rgb(70, 8, 8);
+
+  }
+
+
+
+
+
+
+
+
+
+
+  .sn:hover{
+    background-color: rgb(180,10,20);
+  }
+  .slt{
+    background: none;
+    color: white;
+    height: 35px;
+    width: 120px;
+    font-size: 15px;
+    border-radius: 5px;
+    /* padding-right: 10px; */
+  }
+  .sec{
+    justify-items: end;
+
+  }
+  .one{
+    padding-top: 110px;
+    color: white;
+  
+    text-align: center;
+    align-content: center;
+  }
+  .big{ font-size: 70px;
+  font-weight: 200;}
+  .medium{
+    font-size: 25px;
+  }
+.small{
+  font-size: 15px;
+  padding-top: 30px;
+}
+  .strt{
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+    gap: 10px;
+    padding-top: 20px;
+  }
+  .ok{
+    background-color: rgb(193,17,25);
+    color: white;
+    border-radius: 7px;
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+  }
+input{
+  width: 400px;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 15px;
+  background-color: rgb(20,18,17);
+  border: 1px solid white;
+  color: white;
+
+}
+.sec{
+  
+  border-top:  2px solid red;
+  border-top-left-radius: 45px 50px;
+  border-top-right-radius: 40px 45px;
+  height: 3rem;
+  
+
+
+ }
+/* .curv{
+  
+  border-top:  2px solid red;
+  background-color: red; */
+  
+
+  
+
+
+/* } */
+.mar{
+  padding-top: 50px;
+}
+
+
+
+
+
+h1{
+  color: white;
+  margin-left: 70px;
+}
+.ind{
+background: none ;
+color: white;
+height: 40px;
+width: 100px;
+font-size: 15px;
+border-radius: 8px;
+margin-left: 40px;
+/* margin-top: 50px; */
+}
+.all{
+  margin-left: 70px;
+}
+
+
+
+.deals{
+
+background-color: rgb(0,0,0);
+
+/* margin-top: 20px; */
+/* padding-bottom: 50px; */
+width: 100%;
+display: flex;
+height: 380px;
+/* justify-content: space-evenly; */
+align-items: center;
+/* padding: 50px; */
+justify-content: center;
+gap: 25px;
+
+
+}
+
+.value{
+  background-color: rgb(0, 0, 0);
+}
+.tv{
+  width: 240px;
+  height: 250px;
+  border: 2px solid black;
+  border-radius: 8px;
+  background-color: white;
+}
+.whyjoin{
+  
+/* gap: -200px; */
+margin-top: 20px;
+width: 100%;
+display: flex;
+justify-content: center;
+gap: 25px;
+
+
+
+
+}
+.join{
+  
+  width: 280px;
+  height: 280px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: white;
+
+       background-image: linear-gradient( rgb(28, 26, 53), rgb(32, 16, 27))
+
+}
+
+
+.grid{
+gap: 10px;
+display: grid;
+align-items: center;
+justify-content: center;
+}
+
+
+.same{
+
+height: 70px;
+width: 1200px;
+background-color: rgb(65, 65, 65);
+color: white;
+font-size: 30px;
+/* justify-items: center; */
+/* align-items: center; */
+align-content: center;
+padding-left: 20px;
+
+}
+p{
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+.hh{
+padding-left: 80px;
+/* padding-top: 200px; */
+}
+h2{
+  color: white;
+  justify-items: center;
+  /* align-items: center; */
+  padding-left: 10px;
+}
+.non{
+  justify-content: space-evenly;
+font-weight: 200;
+font-size: 20px;}
+
+.long{
+  width: 600px;
+  background: none;
+}
+.ko{
+  background-color: rgb(193,17,25);
+    color: white;
+    border-radius: 7px;
+    height: 55px;
+    width: 200px;
+    font-size: 20px;
+}
+
+.footer{
+  padding-top: 50px;
+  
+  display: flex;
+justify-content: space-evenly;
+
+
+background: none;
+color: white;
+
+width: 100%;}
+
+
+.lastcard{
+  display: grid;
+  color: white;
+  gap: 10px;
+  height: 150px;
+}
+.lastcard a{
+  color: white;
+  
+  
+
+}
+
+.call{
+  color: white;
+  padding-left: 200px;
+  padding-top: 50px;
+}
+
+.call a{
+  color: white;
+  padding-left: 12px;
+}
+
+.btn{
+  padding-left: 200px;
+  padding-top: 50px;
+}
+
+.lastone{
+height: 80px;
+  color: white;
+  padding-top: 50px;
+  padding-left: 200px;
+}
